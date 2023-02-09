@@ -1,0 +1,77 @@
+
+.frst{
+    background-image: url(assets/quad.jpg);
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    height: 80vh;
+    
+}
+.navbar{
+    padding: 60px;
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.tr{
+    border: 2px solid white;
+    border-radius: 2px;
+    width: 30%;
+    margin-left: 40px;
+}
+
+.upmid{
+    width: 100%;
+    margin: 200px 0px;
+  
+}
+.rasimbalaw{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    gap: 50px;
+    width: 50%;
+    position: absolute;
+    background-color: white;
+    right: 60px;
+    top: 140vh;
+    
+}
+
+.middle{
+    display: flex;
+    gap: 20px;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    width: 80%;
+    margin-left: 150px;
+}
+
+.foot{
+    display: flex;
+    justify-content: space-around;
+    background-color: black;
+    bottom: 0px;
+    height: 130px;
+    margin-top: 70px;
+    width: 100%;
+}
+.left{
+    display: flex;
+   flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 30px;
+    padding-left: 60px;
+}
+.right{
+    display: flex;
+    flex-direction: column;
+    align-items: end;
+    justify-content: center;
+    gap: 30px;
+    
+}
+
